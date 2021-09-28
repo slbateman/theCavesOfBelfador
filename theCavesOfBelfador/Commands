@@ -1,0 +1,24 @@
+
+"move -------- To move in a specified direction"
+"look -------- To see what is in your location"
+"inventory --- To view your inventory"
+"trade ------- To enter transactions with a Trader"
+"grab ------ To pick up an item"
+"drop -------- To drop item from inventory"
+"equip ------- To equip a weapon"
+"unequip ----- To disarm your weapon"
+	Only weapons can be equipped"
+"drink ------- To drink a potion or elixer"
+	Only potions and elixers can be drank"
+"attack ------ To attack enemy with equipped weapon"
+	If you have no weapons,"
+	you can attack with your fists"
+"status ------ To view the status of your character"
+"quit -------- To end game at any time"
+"help -------- To view this list of commands"
+
+
+
+Notes:  
+
+Total 
